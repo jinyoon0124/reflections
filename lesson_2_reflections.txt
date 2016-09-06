@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git init is used when an user want to create git in a specific directory. when initilized, there is no commit automatically until the user did so. 
